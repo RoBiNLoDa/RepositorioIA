@@ -56,7 +56,7 @@ es una rama de la inteligencia artificial que permite a las máquinas aprender d
  * __Monitoreo y mantenimiento__
 
 ## Analítica de Datos
-La analítica de datos es el proceso de recolectar, procesar, interpretar y visualizar datos para obtener información valiosa, identificar patrones significativos y descubrir tendencias relevantes1. Este proceso es fundamental para la toma de decisiones informadas en diversos campos como los negocios, la investigación y la ciencia de datos.
+La analítica de datos es el proceso de recolectar, procesar, interpretar y visualizar datos para obtener información valiosa, identificar patrones significativos y descubrir tendencias relevantes. Este proceso es fundamental para la toma de decisiones informadas en diversos campos como los negocios, la investigación y la ciencia de datos.
 
 ### Etapas del Análisis de Datos:
 
